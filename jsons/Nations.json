@@ -27,8 +27,8 @@
 		"afterPeace": "You have been spared, temporarily.",
 		"tradeRequest": "I have a trade deal with you.",
 
-		"outerColor": [50,100,55],
-		"innerColor": [50,100,0],
+		"outerColor": [55,100,50],
+		"innerColor": [0,100,50],
 		"unique": "Red_Warfare",
 		"cities": ["Novogrod","Zvezdagrad","Cherry shores","Red centre","Red star port","Magentavile","Alazamacity","Redtown","something",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
