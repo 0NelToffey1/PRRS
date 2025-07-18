@@ -1,38 +1,32 @@
-[
-	{
-		"name": "People's republic of the red star",
-		"leaderName": "Soviet",
-		"adjective": ["Red starian"],
-		"startBias": ["Jungle"],
-		"preferredVictoryType": "Domination",
-		
-		"startIntroPart1": "Great comrade Soviet",
-		"startIntroPart2": "People's republic of the red star has seen better days, the people are ready to die for greatness, so you have been chosen to bring us back our glory.",
-		
-		"declaringWar": "You have passed the point of no return, you shall feel the wrath of the red star.",
-		"attacked": "I was thinking about sparing your mere life, but it's clear you wanna skip life and go to hell immediately.",
-		"defeated": "Even if we are defeated, our achievements will live on, communism will live on.",
-		"introduction": "Hello fellow people, we are the PRRS, don't stand in our way and we will spare you, probably.",
-		
-		"neutralHello": "Hi comrade",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["Unbelievable, how should I agree to garbage like this??","No!","I refuse!!"],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+"name": "People's republic of the red star",
+"leaderName": "Soviet",
+"adjective": ["Red starian"],
+"startBias": ["Jungle"],
+"preferredVictoryType": "Domination",
+"personality": "Soviet",
 
-		"hateHello": "Get out of my face this instance.",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is only happening on my corps!","Do you think I will agree you #£$#?!?","Go #$#& ##*#£!"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "You have been spared, temporarily.",
-		"tradeRequest": "I have a trade deal with you.",
+"startIntroPart1": "Great comrade soviet",
+"startIntroPart2": "People's republic of the red star has seen better days, the people are ready to die for greatness, so you have been chosen to bring us back our glory.",
 
-		"outerColor": [55,100,50],
-		"innerColor": [0,100,50],
-		"unique": "Red_Warfare",
-		"cities": ["Novogrod","Zvezdagrad","Cherry shores","Red centre","Red star port","Magentavile","Alazamacity","Redtown","something",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
-]
+"declaringWar": "You have passed the point of no return, you shall feel the wrath of the red star.",
+"attacked": "I was thinking about sparing your mere life, but it's clear you wanna skip life and go to hell immediately.",
+"defeated": "Even if we are defeated, our achievements will live on, communism will live on.",
+"introduction": "Hello fellow people, we are the PRRS, don't stand in our way and we will spare you, probably.",
+
+"neutralHello": "Greetings fellow comrade.",
+"hateHello": "Parish out of my sight this instance!",
+
+"tradeRequest": "I have a trade deal for you.",
+
+"outerColor": [255,233,0],
+"innerColor": [255,0,0],
+"favoredReligion": "Islam",
+"uniqueName": "Red_Revolution",
+"uniques": ["Free [Great General] appears <upon discovering [The Wheel] technology>", "[Great General] is earned [50]% faster"],
+"cities": ["Novogrod","Cherry shores","Zvezdagrad","Red-town","Revolution-ville","Cherry-town","Alazamacity","something","somethin-g2","something 3",
+"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
+"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
+"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
+"spyNames": ["Nel", "Chara", "Eltrolomon", "Nellest toffey", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+},
+{
